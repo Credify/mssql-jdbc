@@ -61,7 +61,7 @@
 		<osgi.comp.version>5.0.0</osgi.comp.version>
 		<!-- JUnit Test Dependencies -->
 		<junit.platform.version>1.3.2</junit.platform.version>
-		<junit.jupiter.version>5.4.2</junit.jupiter.version>
+		<junit.jupiter.version>5.9.3</junit.jupiter.version>
 		<hikaricp.version>3.3.1</hikaricp.version>
 		<dbcp2.version>2.6.0</dbcp2.version>
 		<slf4j.nop.version>1.7.26</slf4j.nop.version>
