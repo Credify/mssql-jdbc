@@ -70,6 +70,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
 		<enforcer.skip>false</enforcer.skip>
+        <avro-schemas-document-lib.version>PR.146-SNAPSHOT</avro-schemas-document-lib.version>
+        <doc-mgt-client.version>PR.1727-SNAPSHOT</doc-mgt-client.version>
 	</properties>
 
 	<dependencies>
